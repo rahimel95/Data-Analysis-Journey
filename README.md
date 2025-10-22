@@ -84,9 +84,9 @@ By the end of this journey, I aim to:
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **GitHub:** [Your GitHub Profile URL]  
-- **Email:** [Your professional email address]
+- **LinkedIn:** https://www.linkedin.com/in/rahimel/  
+- **GitHub:** https://github.com/rahimel95
+- **Email:** himel.amin95@gmail.com
 
 ---
 
