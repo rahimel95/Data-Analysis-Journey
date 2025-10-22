@@ -29,3 +29,66 @@ By the end of this journey, I aim to:
 
 ## 📘 Repository Structure
 
+
+---
+
+## 🧩 Day 1: Python Fundamentals
+
+📘 **File:** `Day1_Python_Basics.ipynb`  
+**Topics Covered:**
+- Variables & data types  
+- Conditional statements  
+- Lists, tuples, and dictionaries  
+- Simple statistical analysis (mean, median, mode, std)  
+
+**Mini Project:**  
+> Built a simple statistical analyzer that calculates mean, median, mode, and standard deviation from a given dataset.
+
+---
+
+## 🧠 Key Skills Learned
+
+- Python Programming for Data Analysis  
+- Data Manipulation using Pandas  
+- Data Visualization with Matplotlib & Seaborn  
+- SQL Query Writing & Optimization  
+- Power BI Dashboarding  
+- Data Storytelling and KPI Analysis  
+
+---
+
+## 📊 Upcoming Projects
+
+- Netflix Data Analysis (Python & Pandas)  
+- Global COVID-19 Data Analysis (SQL + Power BI)  
+- E-Commerce Sales Dashboard (Full Pipeline)  
+
+---
+
+## 💼 About Me
+
+**Name:** Amin  
+🎓 MSc Data Analytics Student (Graduating February 2026)  
+🌍 Aspiring Junior Data Analyst | Passionate about data-driven decision making  
+📍 Based in the UK  
+
+---
+
+## 🏗️ Future Goals
+
+- Build 3–4 end-to-end analytics projects  
+- Complete Google Data Analytics or Microsoft Data Analyst certification  
+- Secure a **Junior Data Analyst role** in a top UK tech company  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile URL]  
+- **GitHub:** [Your GitHub Profile URL]  
+- **Email:** [Your professional email address]
+
+---
+
+⭐ **Tip:** Don’t forget to click the “Star” button on this repo if you find my learning journey inspiring!
+
